@@ -1,0 +1,10 @@
+.ant-menu-item:hover {
+  background-color: #0461a4 !important;
+  color: white !important;
+}
+body
+{
+    background-image: url("https://wallpapers.com/images/hd/aesthetic-landscape-forest-silhouette-8ztdf3nzn4ptvwi1.jpg");
+    background-size: cover;
+    background-attachment: fixed; 
+}
